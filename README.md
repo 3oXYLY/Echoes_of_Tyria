@@ -64,6 +64,15 @@ Put `.lrc` files in `Guild Wars 2/addons/EchoesOfTyria/lyrics`, named `Artist - 
 
 The addon sends the artist and title of the playing song to LRCLIB to find lyrics. Nothing else leaves your PC.
 
+## Building
+
+Visual Studio 2022 or newer with the C++ desktop workload. Open the folder, pick the `x64 Release` preset and build the `LyricHud` target.
+
+| Target | What it is |
+|---|---|
+| `LyricHud` | The addon (`EchoesOfTyria.dll`), one DLL with the fonts inside |
+| `LyricHudTest` + `LyricHudCore` | Development setup that reloads the core while the game is running |
+
 ## Credits
 
 - [Nexus](https://github.com/RaidcoreGG) by Raidcore
@@ -79,4 +88,4 @@ Licenses of the libraries and fonts included in the addon are in [THIRD_PARTY_NO
 
 Copyright (c) 2026 Foxy. All rights reserved.
 
-Echoes of Tyria is free to download and use. The source code is not public, and the addon may not be redistributed or modified without permission.
+The source code is public so anyone can read it and check what the addon does. Echoes of Tyria is free to download and use, but the code may not be copied, modified, redistributed or reused in other projects without written permission from the author.
