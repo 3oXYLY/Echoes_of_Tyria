@@ -1,10 +1,20 @@
 Copyright (c) 2026 Foxy. All rights reserved.
 
+1. Compiled binaries
 Echoes of Tyria is free to download and use.
+Permission is granted to anyone, including Raidcore (raidcore.gg) and the Nexus
+addon loader, to host, mirror and redistribute the official compiled binaries
+(EchoesOfTyria.dll) free of charge, as long as they are not modified.
 
+2. Source code
 The source code is published for transparency and review only. No permission is
-granted to copy, modify, merge, publish, distribute, sublicense or sell the code
-or any part of it, or to use it in other projects, without written permission
+granted to copy, modify, merge, publish, distribute, sublicense or sell the source
+code or any part of it, or to use it in other projects, without written permission
 from the author.
 
+3. Third party components
 Third party components keep their own licenses, listed in THIRD_PARTY_NOTICES.txt.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
