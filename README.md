@@ -88,4 +88,6 @@ Licenses of the libraries and fonts included in the addon are in [THIRD_PARTY_NO
 
 Copyright (c) 2026 Foxy. All rights reserved.
 
-The source code is public so anyone can read it and check what the addon does. Echoes of Tyria is free to download and use, but the code may not be copied, modified, redistributed or reused in other projects without written permission from the author.
+Echoes of Tyria is free to download and use. The official compiled DLL may be hosted and redistributed unmodified by anyone, including Raidcore and Nexus.
+
+The source code is public so anyone can read it and check what the addon does, but it may not be copied, modified, redistributed or reused in other projects without written permission from the author. See [LICENSE](LICENSE).
